@@ -5,12 +5,12 @@
     flex-flow= row nowrap;
     align-items= center;
     justify-content: center;
-}
+{
 html,body}
     margin:0;
     padding:0;
     height:100%;
 }
-.msg}
+.msg{
     font-size:64 px;
-}
+{
